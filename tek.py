@@ -1,7 +1,7 @@
 from math import ceil, floor
 
 #temperatura#
-x=float(input())
+x=float(input("Vpiši temperaturo"))
 if -0.5 <= x < 0:
 	print('-0')
 else:
