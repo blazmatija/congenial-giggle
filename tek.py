@@ -1,8 +1,7 @@
 from math import ceil, floor
 
-
+#temperatura#
 x=float(input())
-x=-1.5
 if -0.5 <= x < 0:
 	print('-0')
 else:
